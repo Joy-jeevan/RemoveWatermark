@@ -136,6 +136,8 @@ dmypy.json
 ## vim
 *.sw?
 
+Real-ESRGAN/
+STTN/
 nohup.out
 videos/
 gfpgan/
